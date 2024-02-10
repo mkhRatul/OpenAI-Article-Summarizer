@@ -22,8 +22,9 @@ const Hero = () => {
         <span className="orange_gradient ">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with Open AI, an open-source article summarizer
+        that transforms lengthy articles into clear and concise summaries. 
+        Created by Md Khairul Hassan Ratul
       </h2>
     </header>
   );
